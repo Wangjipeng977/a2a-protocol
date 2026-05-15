@@ -3,9 +3,9 @@ name: a2a-protocol
 license: MIT
 ---
 
-[English](./README.md)
-
 # a2a-protocol
+
+[English](./README.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
