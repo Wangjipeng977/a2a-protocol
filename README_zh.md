@@ -1,8 +1,3 @@
----
-name: a2a-protocol
-license: MIT
----
-
 # a2a-protocol
 
 [English](./README.md)
